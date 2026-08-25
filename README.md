@@ -479,7 +479,7 @@ docker-compose up -d --build
 ## 📄 License & Author
 
 - **License**: Released under the [MIT License](LICENSE).
-- **Author**: **Livesh L** (Artificial Intelligence & Data Science)
+- **Author**: **Dinesh G** (Artificial Intelligence & Data Science)
 - **References**: [CollegePipe.in AP EAMCET Predictor](https://collegepipe.in/apeamcet.html)
 
 ---
