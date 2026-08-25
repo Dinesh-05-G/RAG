@@ -21,7 +21,7 @@
 
 | Resource | URL Link | Deployment Status | Description |
 | :--- | :--- | :--- | :--- |
-| **🐙 GitHub Repository** |  | `Main Branch (Up to date)` | Complete source code, Docker configs, and setup scripts |
+| **🐙 GitHub Repository** | https://github.com/Dinesh-05-G/RAG | `Main Branch (Up to date)` | Complete source code, Docker configs, and setup scripts |
 | **🚀 Live Application (Vercel)** | [https://frontend-peach-nine-9dyn34fhbi.vercel.app](https://frontend-peach-nine-9dyn34fhbi.vercel.app) | `Active (Production)` | Primary SPA frontend deployed on Vercel Edge Network |
 | **🚀 Live Application (Render)** | [https://rag-document-ihnt.onrender.com](https://rag-document-ihnt.onrender.com) | `Active (Production)` | Secondary full-stack deployment on Render |
 | **⚙️ Backend API Base** | [https://rag-document-ihnt.onrender.com/api/v1](https://rag-document-ihnt.onrender.com/api/v1) | `Online (REST API)` | FastAPI REST API router endpoint |
